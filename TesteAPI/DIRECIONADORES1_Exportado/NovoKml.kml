@@ -1,0 +1,25 @@
+﻿<kml xmlns:kml="http://www.opengis.net/kml/2.2">
+  <Document>
+    <Placemark>
+      <name>Ponto 11</name>
+      <description><![CDATA[<img src="https://mymaps.usercontent.google.com/hostedimage/m/*/3AEDAZkqyaV08hcCp3sYcgzvAcDXGdwQUmIM3_WmEt46sgvNHnmZe1ak9z_-_ocGGaoRFrb-zSo_KHNw0IzOtC0fIVbTKtiTjlw7BBr9G60-GwH84YH3a-cOIprzacomN-h9d6DuSxRrUxhoX0FaW1FMDHcGpA2pW8Im8Qjxdqfnk7kI0uOQY_QpPnPZPsosuHKH7NEPQOJo8xTmc?authuser=0&fife=s16383" height="200" width="auto" /><br><br>RUA/CRUZAMENTO: AV. JORNALISTA SANTOS SANTANA X AV. PEDRO VALADARES<br>REFERENCIA: CANTEIRO<br>BAIRRO: JARDINS<br>SITUAÇÃO: PRA ONDE FOI REVEMAR????<br>CLIENTE: COESI<br>DATA: 30/09/2024<br>COORDENADAS: -10.9402992, -37.0582827<br><br><img src="https://mymaps.usercontent.google.com/hostedimage/m/*/3AEDAZkqR7Iyy4WoGihHlKF8xlXfNv7XZ_g5-fnS3RbMkA1NKqx0A-nTVQU3waGAUqrTQ560Df2FiIz6l3rVCBLX_T-t4HZFZ2OsaHOdEMPfjBRP9fevRNwWSAu-lmMQqn1J7um7R8hX-nGw0KouPIezi0dcbiVqQzCCZ4Um32G9wfGRS9fJaiiLMKCsj0wEqKtq0fPyLUS56pLieR1rFph0hryTfCsnlK3T7e-hv8mg9h-gbXfSLh_kuqn9rYGQ?authuser=0&fife=s16383" height="200" width="auto" /><br><br><img src="https://mymaps.usercontent.google.com/hostedimage/m/*/3AEDAZkrwcIHQYxeWXz7OsPUx0SN75RWw5PHqgmY4wOXE67Ea1sH_GyFSSFlzOr2NhYgFBdhwxHh1VTF5yOb7LW7Kku-AVhCcvDW0UCPxCY6h4T-ppaD8amr59ex2XSH_iUcSccZyL-OnTCPzgOAlAGXKv0t6lKAbPHPr0KJjSxEh1L72hiJCWr8A9_VwbHghU8SUDpUlIn5P_vBxmNBGUH0-DbLfimqzGV1qADx28ub8pUQBknpGLPoQZ6cnQTM?authuser=0&fife=s16383" height="200" width="auto" /><br><br><img src="https://mymaps.usercontent.google.com/hostedimage/m/*/3AEDAZkru7ALdwC3HVFPf-GIWa65CRv3MwQyUGupxlV8OFIexgfcFI2KB0Qfm-m2vKcJsQEmvBEeXx-a5U9f3xfod2mx4EvGls5dM2sneV2C_vLNIgpXaVtHDoRGHwtIDdycuAaSUjeLQhmMMXWDvbkw8mjYkd17uxPvDuG-4Ag90TXHfHpW6X14yueOQ1K8VlorWzB3NCeqgbO4P3rs9awMbIlSeD65SyqzZ6OJjTU2tDdBuK26SHR9e5g2uwbg?authuser=0&fife=s16383" height="200" width="auto" />]]></description>
+      <ExtendedData>
+        <Data name="RUA/CRUZAMENTO">
+          <value>AV. JORNALISTA SANTOS SANTANA X AV. PEDRO VALADARES</value>
+        </Data>
+        <Data name="REFERENCIA">
+          <value>CANTEIRO</value>
+        </Data>
+        <Data name="BAIRRO">
+          <value>JARDINS</value>
+        </Data>
+        <Data name="SITUAÇÃO">
+          <value>PRA ONDE FOI REVEMAR????</value>
+        </Data>
+        <Data name="CLIENTE">
+          <value>COESI</value>
+        </Data>
+      </ExtendedData>
+    </Placemark>
+  </Document>
+</kml>

@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "TSwXN7Tb4GrYEutDrQ/7oD5j46zzgMOU9gvMmxnPmrDSz+Y5mGPL1QoevrQ/S3cGSjwQBCvUlMtM8HyfAtR2Gg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\ishma\\Desktop\\ProjetoAPI\\Api.Domain\\Api.Domain.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ishma\\.nuget\\packages\\fluentvalidation\\11.11.0\\fluentvalidation.11.11.0.nupkg.sha512"
+  ],
+  "logs": []
+}

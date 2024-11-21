@@ -1,0 +1,15 @@
+C:\Users\ishma\Desktop\ProjetoAPI\Api.Services\bin\Debug\net8.0\Api.Services.deps.json
+C:\Users\ishma\Desktop\ProjetoAPI\Api.Services\bin\Debug\net8.0\Api.Services.dll
+C:\Users\ishma\Desktop\ProjetoAPI\Api.Services\bin\Debug\net8.0\Api.Services.pdb
+C:\Users\ishma\Desktop\ProjetoAPI\Api.Services\bin\Debug\net8.0\Api.Domain.dll
+C:\Users\ishma\Desktop\ProjetoAPI\Api.Services\bin\Debug\net8.0\Api.Domain.pdb
+C:\Users\ishma\Desktop\ProjetoAPI\Api.Services\obj\Debug\net8.0\Api.Services.csproj.AssemblyReference.cache
+C:\Users\ishma\Desktop\ProjetoAPI\Api.Services\obj\Debug\net8.0\Api.Services.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ishma\Desktop\ProjetoAPI\Api.Services\obj\Debug\net8.0\Api.Services.AssemblyInfoInputs.cache
+C:\Users\ishma\Desktop\ProjetoAPI\Api.Services\obj\Debug\net8.0\Api.Services.AssemblyInfo.cs
+C:\Users\ishma\Desktop\ProjetoAPI\Api.Services\obj\Debug\net8.0\Api.Services.csproj.CoreCompileInputs.cache
+C:\Users\ishma\Desktop\ProjetoAPI\Api.Services\obj\Debug\net8.0\Api.Services.csproj.CopyComplete
+C:\Users\ishma\Desktop\ProjetoAPI\Api.Services\obj\Debug\net8.0\Api.Services.dll
+C:\Users\ishma\Desktop\ProjetoAPI\Api.Services\obj\Debug\net8.0\refint\Api.Services.dll
+C:\Users\ishma\Desktop\ProjetoAPI\Api.Services\obj\Debug\net8.0\Api.Services.pdb
+C:\Users\ishma\Desktop\ProjetoAPI\Api.Services\obj\Debug\net8.0\ref\Api.Services.dll
