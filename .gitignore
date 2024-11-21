@@ -1,0 +1,16 @@
+# Ignorar a pasta .vs
+.vs/
+
+# Ignorar arquivos de log
+*.log
+
+# Ignorar o diretório node_modules (se usar Node.js)
+node_modules/
+
+# Ignorar arquivos temporários do sistema
+*.swp
+*.bak
+
+# Ignorar arquivos de compilação
+/bin/
+/obj/
