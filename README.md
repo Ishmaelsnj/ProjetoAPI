@@ -13,9 +13,9 @@ A API requer configurações específicas no arquivo appsettings.json para defin
 
 ```json
 {
-  "KmlConfig": {
-    "DiretorioLeitura": "C:\Caminho\Para\DIRECIONADORES1.kml",
-    "DiretorioEscrita": "C:\Caminho\Para\Saida\KmlFiltrado.kml"
+   "KmlConfig": {
+    "DiretorioLeitura": "C:\\Caminho\\Para\\DIRECIONADORES1.kml",
+    "DiretorioEscrita": "C:\\Caminho\\Para\\Saida\\KmlFiltrado.kml"
   }
 }
 ```
